@@ -1,0 +1,5 @@
+public/system/students
+public/system/archived_students
+log/development.log
+log/production.log
+log/mongrel.log
